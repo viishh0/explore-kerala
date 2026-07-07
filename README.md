@@ -46,7 +46,31 @@ git clone https://github.com/viishh0/explore-kerala.git
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home](images/home.png)
+
+### 🏝️ Destinations
+
+![Destinations](images/destinations.png)
+
+### 🖼️ Gallery
+
+![Gallery](images/gallery.png)
+
+### ℹ️ About
+
+![About](images/about.png)
+
+### 📞 Contact
+
+![Contact](images/contact.png)
+
+### 📱 Mobile View
+
+![Mobile](images/mobile.png)
 
 ## 👨‍💻 Author
 
